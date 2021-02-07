@@ -1,0 +1,7 @@
+{
+	"name": "MultiClickVoiceChannels",
+	"version": "1.0.0",
+	"description": "Allows you to set a custom amount of clicks / time between clicks to join a voicechannel.",
+	"author": "Strencher#1044",
+	"license": "MIT"
+}
