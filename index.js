@@ -7,7 +7,6 @@ const _oldConnect = VoiceModule.selectVoiceChannel;
 export default class MultoClickVoiceChannels extends Plugin {
    start() {
       VoiceModule.selectVoiceChannel = this.createMultiClick(_oldConnect);
-
    }
 
    createMultiClick(callback) {
